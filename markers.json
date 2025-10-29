@@ -1,0 +1,358 @@
+{
+  "src/pages/Home.tsx": [
+    {
+      "id": "h1-4d41032c",
+      "file": "src/pages/Home.tsx",
+      "start": {
+        "line": 13,
+        "column": 6,
+        "index": 468
+      },
+      "end": {
+        "line": 13,
+        "column": 10,
+        "index": 472
+      },
+      "component": "h1",
+      "type": "html"
+    },
+    {
+      "id": "p-3d171066",
+      "file": "src/pages/Home.tsx",
+      "start": {
+        "line": 14,
+        "column": 6,
+        "index": 519
+      },
+      "end": {
+        "line": 14,
+        "column": 9,
+        "index": 522
+      },
+      "component": "p",
+      "type": "html"
+    },
+    {
+      "id": "p-f6539a66",
+      "file": "src/pages/Home.tsx",
+      "start": {
+        "line": 15,
+        "column": 6,
+        "index": 571
+      },
+      "end": {
+        "line": 15,
+        "column": 9,
+        "index": 574
+      },
+      "component": "p",
+      "type": "html"
+    },
+    {
+      "id": "section-c11d6019",
+      "file": "src/pages/Home.tsx",
+      "start": {
+        "line": 16,
+        "column": 6,
+        "index": 626
+      },
+      "end": {
+        "line": 16,
+        "column": 54,
+        "index": 674
+      },
+      "component": "section",
+      "type": "html"
+    },
+    {
+      "id": "h1-4cabe0a0",
+      "file": "src/pages/Home.tsx",
+      "start": {
+        "line": 16,
+        "column": 55,
+        "index": 675
+      },
+      "end": {
+        "line": 16,
+        "column": 59,
+        "index": 679
+      },
+      "component": "h1",
+      "type": "html"
+    },
+    {
+      "id": "Icon-881a1a73",
+      "file": "src/pages/Home.tsx",
+      "start": {
+        "line": 16,
+        "column": 79,
+        "index": 699
+      },
+      "end": {
+        "line": 16,
+        "column": 206,
+        "index": 826
+      },
+      "component": "Icon",
+      "type": "html"
+    },
+    {
+      "id": "p-b834f8fd",
+      "file": "src/pages/Home.tsx",
+      "start": {
+        "line": 16,
+        "column": 207,
+        "index": 827
+      },
+      "end": {
+        "line": 16,
+        "column": 210,
+        "index": 830
+      },
+      "component": "p",
+      "type": "html"
+    },
+    {
+      "id": "Image-678b6dec",
+      "file": "src/pages/Home.tsx",
+      "start": {
+        "line": 16,
+        "column": 257,
+        "index": 877
+      },
+      "end": {
+        "line": 16,
+        "column": 347,
+        "index": 967
+      },
+      "component": "Image",
+      "type": "html"
+    },
+    {
+      "id": "LinkWrapper-a6157326",
+      "file": "src/pages/Home.tsx",
+      "start": {
+        "line": 16,
+        "column": 348,
+        "index": 968
+      },
+      "end": {
+        "line": 16,
+        "column": 377,
+        "index": 997
+      },
+      "component": "LinkWrapper",
+      "type": "html"
+    },
+    {
+      "id": "span-047aafa9",
+      "file": "src/pages/Home.tsx",
+      "start": {
+        "line": 16,
+        "column": 378,
+        "index": 998
+      },
+      "end": {
+        "line": 16,
+        "column": 384,
+        "index": 1004
+      },
+      "component": "span",
+      "type": "html"
+    },
+    {
+      "id": "span-82c02cf5",
+      "file": "src/pages/Home.tsx",
+      "start": {
+        "line": 16,
+        "column": 418,
+        "index": 1038
+      },
+      "end": {
+        "line": 16,
+        "column": 424,
+        "index": 1044
+      },
+      "component": "span",
+      "type": "html"
+    },
+    {
+      "id": "Icon-a17297ad",
+      "file": "src/pages/Home.tsx",
+      "start": {
+        "line": 16,
+        "column": 425,
+        "index": 1045
+      },
+      "end": {
+        "line": 16,
+        "column": 473,
+        "index": 1093
+      },
+      "component": "Icon",
+      "type": "html"
+    },
+    {
+      "id": "p-62736870",
+      "file": "src/pages/Home.tsx",
+      "start": {
+        "line": 16,
+        "column": 474,
+        "index": 1094
+      },
+      "end": {
+        "line": 16,
+        "column": 490,
+        "index": 1110
+      },
+      "component": "p",
+      "type": "html"
+    },
+    {
+      "id": "Label-73a1f501",
+      "file": "src/pages/Home.tsx",
+      "start": {
+        "line": 16,
+        "column": 521,
+        "index": 1141
+      },
+      "end": {
+        "line": 16,
+        "column": 528,
+        "index": 1148
+      },
+      "component": "Label",
+      "type": "html"
+    },
+    {
+      "id": "Input-650f9739",
+      "file": "src/pages/Home.tsx",
+      "start": {
+        "line": 16,
+        "column": 544,
+        "index": 1164
+      },
+      "end": {
+        "line": 16,
+        "column": 668,
+        "index": 1288
+      },
+      "component": "Input",
+      "type": "html"
+    },
+    {
+      "id": "Label-5b1eb955",
+      "file": "src/pages/Home.tsx",
+      "start": {
+        "line": 16,
+        "column": 682,
+        "index": 1302
+      },
+      "end": {
+        "line": 16,
+        "column": 689,
+        "index": 1309
+      },
+      "component": "Label",
+      "type": "html"
+    },
+    {
+      "id": "Textarea-ab94a6bb",
+      "file": "src/pages/Home.tsx",
+      "start": {
+        "line": 16,
+        "column": 705,
+        "index": 1325
+      },
+      "end": {
+        "line": 16,
+        "column": 846,
+        "index": 1466
+      },
+      "component": "Textarea",
+      "type": "html"
+    },
+    {
+      "id": "section-6c4060a4",
+      "file": "src/pages/Home.tsx",
+      "start": {
+        "line": 16,
+        "column": 854,
+        "index": 1474
+      },
+      "end": {
+        "line": 16,
+        "column": 863,
+        "index": 1483
+      },
+      "component": "section",
+      "type": "html"
+    },
+    {
+      "id": "h2-8d54484c",
+      "file": "src/pages/Home.tsx",
+      "start": {
+        "line": 16,
+        "column": 864,
+        "index": 1484
+      },
+      "end": {
+        "line": 16,
+        "column": 868,
+        "index": 1488
+      },
+      "component": "h2",
+      "type": "html"
+    },
+    {
+      "id": "p-34e5fb85",
+      "file": "src/pages/Home.tsx",
+      "start": {
+        "line": 16,
+        "column": 888,
+        "index": 1508
+      },
+      "end": {
+        "line": 16,
+        "column": 891,
+        "index": 1511
+      },
+      "component": "p",
+      "type": "html"
+    }
+  ],
+  "src/layout/Layout.tsx": [
+    {
+      "id": "span-ea4b29d5",
+      "file": "src/layout/Layout.tsx",
+      "start": {
+        "line": 17,
+        "column": 76,
+        "index": 464
+      },
+      "end": {
+        "line": 17,
+        "column": 82,
+        "index": 470
+      },
+      "component": "span",
+      "type": "html"
+    },
+    {
+      "id": "p-0d26b5f6",
+      "file": "src/layout/Layout.tsx",
+      "start": {
+        "line": 33,
+        "column": 8,
+        "index": 944
+      },
+      "end": {
+        "line": 33,
+        "column": 11,
+        "index": 947
+      },
+      "component": "p",
+      "type": "html"
+    }
+  ]
+}
