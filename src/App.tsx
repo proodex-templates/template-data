@@ -1,10 +1,10 @@
 import './App.css';
-import { ThemeProvider } from "@/layout/theme-provider";
+import { ThemeProvider } from "@/context/theme-provider";
 import { RouterProvider } from "react-router";
 import { router } from "@/routes/routes";
-import { ClientScriptHandler } from './clientScriptHandler';
+import { ClientScriptHandler } from './client-script-handler';
 
-function App() {
+export function App() {
   return (
     <>
       <ClientScriptHandler /> {/* ✅ add component */}
@@ -14,5 +14,3 @@ function App() {
     </>
   );
 }
-
-export default App;
