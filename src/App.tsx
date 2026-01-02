@@ -2,7 +2,7 @@ import './App.css';
 import { ThemeProvider } from "@/context/theme-provider";
 import { RouterProvider } from "react-router";
 import { router } from "@/routes/routes";
-import { ClientScriptHandler } from './client-script-handler';
+import { ClientScriptHandler } from '@/client-script-handler';
 
 export function App() {
   return (
